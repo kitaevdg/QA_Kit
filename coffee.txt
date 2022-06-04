@@ -3,9 +3,7 @@ Peace! Love! Music!
 
 Saint-Peterburg
 Russia
-<<<<<<< HEAD
-Always learnig
-=======
+
+Always learning
 
 Coffee time!
->>>>>>> c40a29234d03158c14a3a148e9173e7f6dc551c7
