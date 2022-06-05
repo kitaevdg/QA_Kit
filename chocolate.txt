@@ -4,3 +4,4 @@ Shamed pleasures!
 Shamed pleasures?
 
 select Y/N
+or delete shame in stash
